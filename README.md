@@ -176,7 +176,7 @@ Representa os personagens:
 Arquivos auxiliares:
 - Dados salvos  
 - Configurações  
-- Recursos gráficos (futuro)  
+- Recursos gráficos 
 
 ---
 
@@ -194,7 +194,7 @@ O projeto possui testes automatizados utilizando **JUnit**, garantindo:
 
 - Java  
 - JUnit  
-- JavaFX (em desenvolvimento)  
+- JavaFX  
 
 ---
 
